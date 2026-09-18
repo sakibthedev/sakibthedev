@@ -34,6 +34,7 @@ interests:
   - Mobile Application Development
   - DevOps
   - Machine Learning
+  - Photography
 
 
 mission:
@@ -46,7 +47,7 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,php,javascript,firebase,html,css,linux,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,php,javascript,firebase,html,css,linux,git,oracle&perline=8" />
 
 </p>
 
@@ -56,7 +57,7 @@ mission:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,figma&perline=5" />
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,github,figma,arduino,discord,photoshop,visualstudio,cursor&perline=5" />
 
 </p>
 
@@ -82,6 +83,8 @@ mission:
 🧪 Software Quality Testing
 
 🤖 Machine Learning
+
+📷 Photography & Cinematography
 ```
 
 ---
@@ -92,9 +95,8 @@ mission:
 | --- | --- |
 | 
 🎓 Online Education Platform Management System | Java Application
-
 👨‍🏫 Online Tutor Hiring System | C# Application
-
+👨‍🏫 SobKichu.com | Online E-commerce Management System | PHP, HTML, CSS & JavaScript
 🏫 School Management System | HTML, CSS & JavaScript Project
 
 🌆 City of Disaster | Computer Graphics Project
