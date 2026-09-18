@@ -93,13 +93,11 @@ mission:
 
 | Project | Description |
 | --- | --- |
-| 
-🎓 Online Education Platform Management System | Java Application
-👨‍🏫 Online Tutor Hiring System | C# Application
-👨‍🏫 SobKichu.com | Online E-commerce Management System | PHP, HTML, CSS & JavaScript
-🏫 School Management System | HTML, CSS & JavaScript Project
-
-🌆 City of Disaster | Computer Graphics Project
+| 🎓 Online Education Platform Management System | Java Application |
+| 👨‍🏫 Online Tutor Hiring System | C# Application |
+| 👨‍🏫 SobKichu.com | Online E-commerce Management System - PHP, HTML, CSS & JavaScript |
+| 🏫 School Management System | HTML, CSS & JavaScript Project |
+| 🌆 City of Disaster | Computer Graphics Project |
 
 ---
 
