@@ -3,7 +3,7 @@
 <!-- ====================================================== -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=ATIQUL%20ISLAM%20SAKIB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=250&section=header&text=ATIQUL%20ISLAM%20SAKIB&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
